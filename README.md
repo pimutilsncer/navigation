@@ -1,4 +1,4 @@
-# Python-flask-web-app
+# musicale
 REST API for the N.W.A Smart Gym
 
 Getting Started
