@@ -1,4 +1,4 @@
-# RadioLocator
+# Python-flask-web-app
 REST API for the N.W.A Smart Gym
 
 Getting Started
