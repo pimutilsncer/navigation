@@ -1,4 +1,4 @@
-# musicale
+# navigation
 REST API for the N.W.A Smart Gym
 
 Getting Started
